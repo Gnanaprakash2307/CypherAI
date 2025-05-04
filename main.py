@@ -16,11 +16,11 @@ FG_COLOR = "#4AFF91"  # Brighter green for better contrast
 ACCENT_COLOR = "#00CFFF"  # Bright cyan for highlights
 CURSOR_COLOR = "#FF3333"  # Brighter red cursor
 HEADER_BG = "#161B22"  # Slightly lighter than bg for header distinction
-GEMINI_API_KEY = "AIzaSyCQwmLtnOvE5i8MjdAAd0lYl51sPEC082k"  # Replace with actual key
+GEMINI_API_KEY = "gemini-api-key"  # Replace with actual key
 
 # Weather API Config
 WEATHER_API_KEY = "YOUR_WEATHER_API_KEY"  # Replace with your weather API key
-WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/weather"
+WEATHER_API_URL = "weather-api-key"
 
 # News API Config
 NEWS_API_KEY = "c039f0cbce564bd1914cd47b637440e9"
