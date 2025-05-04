@@ -1,0 +1,5 @@
+tk
+requests
+keyboard
+playsound
+fpdf
